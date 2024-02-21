@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+17+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+17+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)].
 
 
 
