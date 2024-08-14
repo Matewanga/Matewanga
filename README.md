@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+17+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+17+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!!+:%29)
 
 
 
