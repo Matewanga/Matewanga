@@ -1,22 +1,36 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+18+years+old;I'm+from+Brazil;I+Study+systems+Development;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A68b72&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rebeca;I'm+18+years+old;I'm+from+Brazil;I+Study+Systems+Development;Welcome!+:%29)
 
-
+<br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matewanga&show_icons=true&count_private=true&hide_border=true&title_color=7c9e60&icon_color=A68b72&text_color=c9d1d9&bg_color=0d1117" alt="Rebeca github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matewanga&layout=compact&hide_border=true&title_color=7c9e60&&text_color=c9d1d9&&bg_color=0d1117" />
-  
-  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=Matewanga&show_icons=true&count_private=true&hide_border=true&title_color=7c9e60&icon_color=A68b72&text_color=c9d1d9&bg_color=0d1117" alt="Rebeca github stats" /> 
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matewanga&layout=compact&hide_border=true&title_color=7c9e60&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c9e60&height=120&section=footer"/>
-  
- 
+<br>
+
+<h3 align="center" style="color:#7c9e60;">Main Skills</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,react,css,php,typescript,nodejs" />
+</div>
+
+<h3 align="center" style="color:#7c9e60;">Studying in this moment</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,kotlin" />
+    <img src="https://skillicons.dev/icons?i=javascript,tailwind,java,mysql,laravel" />
+</div>
+
+<br><br>
+
+<div align="center">
+    <!-- Profile Views maior -->
+    <img height="200" src="https://komarev.com/ghpvc/?username=Matewanga&color=7c9e60" />
+
+  <br><br>
+
+   ![Rebeca's GitHub Contributions](https://ghchart.rshah.org/Matewanga)
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c9e60&height=120&section=footer"/>
