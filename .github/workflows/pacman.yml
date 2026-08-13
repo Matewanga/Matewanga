@@ -1,0 +1,28 @@
+name: Generate Pac-Man
+
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+
+jobs:
+generate:
+permissions:
+contents: write
+runs-on: ubuntu-latest
+
+```
+steps:
+  - uses: abozanona/pacman-contribution-graph@main
+    with:
+      github_user_name: Matewanga
+
+  - uses: crazy-max/ghaction-github-pages@v4
+    with:
+      build_dir: dist
+      jekyll: false
+      build_dir: dist
+      target_branch: output
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
