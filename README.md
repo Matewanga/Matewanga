@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Matewanga\&label=PROFILE%20VIEWS\&color=C084FC\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Matewanga&label=PROFILE%20VIEWS&color=C084FC&style=for-the-badge" />
 
 </div>
 
@@ -44,10 +44,16 @@
 
 <div align="center">
 
-![Rebeca's GitHub Contributions](https://ghchart.rshah.org/C084FC/Matewanga)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matewanga/Matewanga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matewanga/Matewanga/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Matewanga/Matewanga/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
-<br>
+<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=github_dark&fontColor=C084FC" />
+</div>
